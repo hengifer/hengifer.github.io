@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://hengifer.github.io/sitemap.xml
